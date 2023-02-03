@@ -1,3 +1,12 @@
+body{
+    background-color: rgb(223, 198, 168);
+}
+
+.container{
+    float: left;
+    width: 100%;
+}
+
 .navbar{
     border: 1px;
     border-width: 1px;
@@ -5,7 +14,7 @@
     border-style: solid;
     border-radius: 5px;
     
-    width: 98%;
+    width: 99%;
     float: left;
     padding: 5px;
     margin: 1px;
@@ -42,7 +51,7 @@
     border-style: solid;
     border-radius: 5px;
    
-    width: 5%;
+    width: 30%;
     float: right;
     padding: 5px;
     margin : 2px;
@@ -51,18 +60,50 @@
 }
 
 .content{
-
     border: 1px;
     border-width: 1px;
     border-color: black;   
     border-style: solid;
     border-radius: 5px;
    
-    width: 98%;
+    width: 99%;
     height: 96vh;
     float: left;
     padding: 5px;
     margin : 1px;
-    
-    text-align: center;
 }
+
+.info{
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+
+    width: 30%;
+}
+
+.foto{
+
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+
+    margin:5px;
+    padding:5px;
+}
+
+.deskripsi{
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+
+    margin:5px;
+    padding:5px;    
+    
+}
+
