@@ -1,0 +1,68 @@
+.navbar{
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+    
+    width: 98%;
+    float: left;
+    padding: 5px;
+    margin: 1px;
+}
+
+.home{
+    border-radius: 5px;
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+    width: 10%;
+    float:left;
+
+    padding: 5px;
+    text-align: center;
+}
+
+.nav{
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+    width: 85%;
+    float:right;
+}
+
+.navitems{
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+   
+    width: 5%;
+    float: right;
+    padding: 5px;
+    margin : 2px;
+    
+    text-align: center;
+}
+
+.content{
+
+    border: 1px;
+    border-width: 1px;
+    border-color: black;   
+    border-style: solid;
+    border-radius: 5px;
+   
+    width: 98%;
+    height: 96vh;
+    float: left;
+    padding: 5px;
+    margin : 1px;
+    
+    text-align: center;
+}
